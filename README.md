@@ -3,7 +3,7 @@
 💻 Passionate about software development, web technologies, and problem-solving <br/>
 🚀 Experienced in Full Stack Development (C/C++, Python, React, TypeScript, Docker) <br/>
 🌍 Fluent in French 🇫🇷 and proficient in English 🇬🇧 (TOEIC 820) <br/>
-🎓 Currently on academic exchange at Myongji University, Seoul 🇰🇷 <br/>
+🎓 Completed an academic exchange at Myongji University, Seoul 🇰🇷 <br/>
 🔎 Looking for a final-year internship starting 03/2027
 
 [🇬🇧 English](#-english) · [🇫🇷 Français](#-français)
@@ -30,7 +30,7 @@
 
 ### About
 
-5th-year Computer Science student at **Epitech Technology** (Expert in Information Technologies, RNCP Level 7 – Bac+5), Marseille. Full Stack developer with hands-on experience across web development, internal tooling, and embedded/IoT systems. Currently on academic exchange at **Myongji University**, Seoul, studying Business Administration alongside my engineering degree. Looking for a **final-year internship starting 03/01/2027**.
+5th-year Computer Science student at **Epitech Technology** (Expert in Information Technologies, RNCP Level 7 – Bac+5), Marseille. Full Stack developer with hands-on experience across web development, internal tooling, and embedded/IoT systems. Completed an academic exchange at **Myongji University**, Seoul, studying Business Administration alongside my engineering degree (validated, ended June 2026). Looking for a **final-year internship starting 03/01/2027**.
 
 ### Experience
 
@@ -62,7 +62,7 @@
 | Years | Program | School |
 |:--|:--|:--|
 | 2022 – 2027 | Expert in Information Technologies (RNCP Level 7 – Bac+5) | **Epitech Technology**, Marseille |
-| 2025 – 2026 | Academic Exchange — Business Administration Major | **Myongji University**, Seoul, South Korea |
+| 2025 – 2026 | Academic Exchange — Business Administration Major (completed, validated) | **Myongji University**, Seoul, South Korea |
 | 2019 – 2022 | Baccalauréat Général — Mathematics & Computer Science (NSI), Mention Assez Bien | Lycée Notre Dame de Sion, Marseille |
 
 **Myongji University** — Marketing, finance, economics, and corporate strategy courses (Principles of Marketing, Financial Management, Global Corporate Strategy, Principles of Economics).
@@ -94,7 +94,7 @@
 
 ### À propos
 
-Étudiant en 5ème année à **Epitech Technology** (Expert en Technologies de l'Information, Titre RNCP Niveau 7 – Bac+5), Marseille. Développeur Full Stack avec une expérience concrète en développement web, outillage interne, et systèmes embarqués/IoT. Actuellement en échange universitaire à **Myongji University**, Séoul, où je suis des cours de Business Administration en parallèle de mon cursus d'ingénieur. Recherche un **stage de fin d'études à partir du 01/03/2027**.
+Étudiant en 5ème année à **Epitech Technology** (Expert en Technologies de l'Information, Titre RNCP Niveau 7 – Bac+5), Marseille. Développeur Full Stack avec une expérience concrète en développement web, outillage interne, et systèmes embarqués/IoT. Échange universitaire validé à **Myongji University**, Séoul, où j'ai suivi des cours de Business Administration en parallèle de mon cursus d'ingénieur (terminé en juin 2026). Recherche un **stage de fin d'études à partir du 01/03/2027**.
 
 ### Expériences professionnelles
 
@@ -126,7 +126,7 @@
 | Années | Programme | École |
 |:--|:--|:--|
 | 2022 – 2027 | Expert en Technologies de l'Information (Titre RNCP Niveau 7 – Bac+5) | **Epitech Technology**, Marseille |
-| 2025 – 2026 | Échange universitaire — Business Administration Major | **Myongji University**, Séoul, Corée du Sud |
+| 2025 – 2026 | Échange universitaire — Business Administration Major (terminé, validé) | **Myongji University**, Séoul, Corée du Sud |
 | 2019 – 2022 | Baccalauréat Général — Spécialités Mathématiques et NSI, Mention Assez Bien | Lycée Notre Dame de Sion, Marseille |
 
 **Myongji University** — Cours de marketing, finance, économie et stratégie d'entreprise (Principles of Marketing, Financial Management, Global Corporate Strategy, Principles of Economics).
