@@ -12,12 +12,12 @@
 
 # 🚧 Some side projects I've been working on recently
 
-### 🎬 [Watchnext](https://github.com/Noam044/Watchnext) · [Live demo](https://watchnext-films.vercel.app)
+### 🎬 [Watchnext](https://github.com/Noam044/Watchnext)
 Film recommendation engine built on your **Letterboxd** history (public RSS feed or official export), enriched with **TMDB** data. It learns from the films you loved *and* the ones you didn't (genres, directors, actors, themes, decades), explains why each film is recommended, and lets you compare your taste with friends. Includes accounts, push notifications, a scheduled sync job and a French/English interface.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 
-### 📦 [Parcel Tracker](https://github.com/Noam044/parcel_tracker) · [Live demo](https://noam-s-parcel-tracker.netlify.app/)
+### 📦 [Parcel Tracker](https://github.com/Noam044/parcel_tracker)
 Parcel tracking web app, no account needed: paste a tracking number and the carrier is detected automatically (S10 postal format, DHL, UPS, Colissimo…). It shows the timeline of events, the estimated delivery date and the parcel's route on an interactive map. Search history stays in the browser, and the API route is protected by per-IP rate limiting, daily quotas and CDN caching.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?logo=mapbox&logoColor=white&style=flat-square) ![17TRACK API](https://img.shields.io/badge/-17TRACK%20API-FF6A00?style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
