@@ -5,8 +5,6 @@
 🎓 Completed an academic exchange at Myongji University, Seoul 🇰🇷 <br/>
 🔎 Looking for a final-year internship starting 03/2027
 
-[🇬🇧 English](#-english) · [🇫🇷 Français](#-français)
-
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?logoColor=white)](https://noambouriche.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noam-bouriche/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noam.bouriche@epitech.eu)
 
@@ -15,12 +13,8 @@
 ### 🎬 [Watchnext](https://github.com/Noam044/Watchnext)
 Film recommendation engine built on your **Letterboxd** history (public RSS feed or official export), enriched with **TMDB** data. It learns from the films you loved *and* the ones you didn't (genres, directors, actors, themes, decades), explains why each film is recommended, and lets you compare your taste with friends. Includes accounts, push notifications, a scheduled sync job and a French/English interface.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=flat-square) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-
 ### 📦 [Parcel Tracker](https://github.com/Noam044/parcel_tracker)
 Parcel tracking web app, no account needed: paste a tracking number and the carrier is detected automatically (S10 postal format, DHL, UPS, Colissimo…). It shows the timeline of events, the estimated delivery date and the parcel's route on an interactive map. Search history stays in the browser, and the API route is protected by per-IP rate limiting, daily quotas and CDN caching.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?logo=mapbox&logoColor=white&style=flat-square) ![17TRACK API](https://img.shields.io/badge/-17TRACK%20API-FF6A00?style=flat-square) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 
 # 💻 Tech Stack
 
@@ -104,15 +98,11 @@ Parcel tracking web app, no account needed: paste a tracking number and the carr
 
 ---
 
-<a id="-english"></a>
-
-## 🇬🇧 English
-
-### About
+## 👤 About
 
 5th-year Computer Science student at **Epitech Technology** (Expert in Information Technologies, RNCP Level 7 – Bac+5), Marseille. Full Stack developer with hands-on experience across web development, internal tooling, and embedded/IoT systems. Completed an academic exchange at **Myongji University**, Seoul, studying Business Administration alongside my engineering degree (validated, ended June 2026). Looking for a **final-year internship starting 03/01/2027**.
 
-### Experience
+## 💼 Experience
 
 | Period | Role | Company |
 |:--|:--|:--|
@@ -137,17 +127,17 @@ Parcel tracking web app, no account needed: paste a tracking number and the carr
 - Designed to replace an obsolete, hard-to-use cartography replay tool
 - Deployed internally via Inno Setup, with detailed documentation to ease onboarding for end users
 
-### Education
+## 🎓 Education
 
 | Years | Program | School |
 |:--|:--|:--|
 | 2022 – 2027 | Expert in Information Technologies (RNCP Level 7 – Bac+5) | **Epitech Technology**, Marseille |
 | 2025 – 2026 | Academic Exchange — Business Administration Major (completed, validated) | **Myongji University**, Seoul, South Korea |
-| 2019 – 2022 | Baccalauréat Général — Mathematics & Computer Science (NSI), Mention Assez Bien | Lycée Notre Dame de Sion, Marseille |
+| 2019 – 2022 | French Baccalaureate — Mathematics & Computer Science, with honours | Lycée Notre Dame de Sion, Marseille |
 
 **Myongji University** — Marketing, finance, economics, and corporate strategy courses (Principles of Marketing, Financial Management, Global Corporate Strategy, Principles of Economics).
 
-### Spoken Languages
+## 🗣️ Spoken Languages
 
 | Language | Level |
 |:--|:--|
@@ -156,7 +146,7 @@ Parcel tracking web app, no account needed: paste a tracking number and the carr
 | Spanish | B1 |
 | Korean | A2 |
 
-### Connect
+## 📫 Connect
 
 | | |
 |:--|:--|
@@ -165,77 +155,12 @@ Parcel tracking web app, no account needed: paste a tracking number and the carr
 | Email | [noam.bouriche@epitech.eu](mailto:noam.bouriche@epitech.eu) |
 | Location | Aix-en-Provence / Marseille |
 
-<sub>Looking for a final-year internship starting March 2027 — feel free to reach out.</sub>
-
----
-
-<a id="-français"></a>
-
-## 🇫🇷 Français
-
-### À propos
-
-Étudiant en 5ème année à **Epitech Technology** (Expert en Technologies de l'Information, Titre RNCP Niveau 7 – Bac+5), Marseille. Développeur Full Stack avec une expérience concrète en développement web, outillage interne, et systèmes embarqués/IoT. Échange universitaire validé à **Myongji University**, Séoul, où j'ai suivi des cours de Business Administration en parallèle de mon cursus d'ingénieur (terminé en juin 2026). Recherche un **stage de fin d'études à partir du 01/03/2027**.
-
-### Expériences professionnelles
-
-| Période | Poste | Entreprise |
-|:--|:--|:--|
-| 04/2025 – 08/2025 | Développeur systèmes embarqués (IoT) | **Simpliciti**, Aix-en-Provence |
-| 09/2024 – 03/2025 | Développeur Full Stack | **Académie d'Aix-Marseille (Rectorat)** — DIASI, Aix-en-Provence |
-| 09/2023 – 12/2023 | Développeur Full Stack | **RATP Dev**, Toulon |
-
-**Simpliciti — Équipe Systèmes embarqués**
-- Refonte de l'interface du banc de tests en Python (migration Tkinter → CustomTkinter)
-- Développement et validation de protocoles bas niveau (CAN, RS232/RS485, trames hexadécimales, CRC)
-- Conception de machines à états pour la gestion des échanges matériels
-- Intégration et émulation d'une antenne RFID UHF Hopeland
-- Collaboration avec les équipes logiciel et matériel (tests, intégration, documentation)
-
-**Académie d'Aix-Marseille Rectorat — DIASI**
-- Améliorations de l'outil de gestion de projet Redmine utilisé en interne par le service DIASI
-- Mise à niveau de l'outil, refonte de l'affichage (CSS), recherche et ajout de plugins
-- Développement de modules complémentaires (Ruby)
-
-**RATP Dev — Service Informatique**
-- Développement en Python d'un outil « Magnétoscope » permettant de créer des cartographies temporelles complexes en quasi temps-réel à partir de fichiers sources Excel
-- Cet outil visait à remplacer un outil de rejeu cartographique obsolète dont la complexité d'utilisation représentait une contrainte
-- Déploiement de l'outil en interne via Inno Setup, accompagné d'une documentation détaillée facilitant la prise en main par les utilisateurs
-
-### Formation
-
-| Années | Programme | École |
-|:--|:--|:--|
-| 2022 – 2027 | Expert en Technologies de l'Information (Titre RNCP Niveau 7 – Bac+5) | **Epitech Technology**, Marseille |
-| 2025 – 2026 | Échange universitaire — Business Administration Major (terminé, validé) | **Myongji University**, Séoul, Corée du Sud |
-| 2019 – 2022 | Baccalauréat Général — Spécialités Mathématiques et NSI, Mention Assez Bien | Lycée Notre Dame de Sion, Marseille |
-
-**Myongji University** — Cours de marketing, finance, économie et stratégie d'entreprise (Principles of Marketing, Financial Management, Global Corporate Strategy, Principles of Economics).
-
-### Langues parlées
-
-| Langue | Niveau |
-|:--|:--|
-| Français | Langue maternelle |
-| Anglais | B2 (820 TOEIC) |
-| Espagnol | B1 |
-| Coréen | A2 |
-
-### Contact
-
-| | |
-|:--|:--|
-| Portfolio | [noambouriche.fr](https://noambouriche.fr) |
-| LinkedIn | [noam-bouriche](https://linkedin.com/in/noam-bouriche/) |
-| Email | [noam.bouriche@epitech.eu](mailto:noam.bouriche@epitech.eu) |
-| Localisation | Métropole Aix-Marseille |
-
 <div align="center">
 
-<sub>Recherche de stage de fin d'études à partir du 01/03/2027 — n'hésitez pas à me contacter.</sub>
+<sub>Looking for a final-year internship starting March 2027 — feel free to reach out.</sub>
 
 <br />
 
-[↑ Back to top / Retour en haut](#hi-im-noam-)
+[↑ Back to top](#hi-im-noam-)
 
 </div>
